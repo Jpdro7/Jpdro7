@@ -1,7 +1,7 @@
-# 👋 Olá, meu nome é João Pedro Almeida Nunes  
+# 👋 Hello Word, My name is João Pedro Almeida Nunes  
 
 🎓 Cursando o *2º Período de Ciência da Computação* na Faculdade Católica da Paraíba.  
-📍 Moro atualmente em *Lagoa - PB, natural de **João Pessoa - PB*.  
+📍 Moro atualmente em Lagoa-PB, natural de João Pessoa-PB.  
 ✉️ Contato: [almeidanunesjoaopedro2@gmail.com](mailto:almeidanunesjoaopedro2@gmail.com)  
 🧠 Atualmente aprendendo *Java, JavaScript, HTML e CSS*.  
 
