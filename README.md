@@ -25,12 +25,7 @@
 <p align="left">
 <a href="https://github.com/Jpdro7" target="_blank">
 </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
 </p>
 
 ---
-
-## 📊 Estatísticas  
-
-<a href="https://github.com/Jpdro7">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jpdro7&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Estatísticas do GitHub de Jpdro7"/>
-</a>
